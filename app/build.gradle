@@ -4,7 +4,7 @@ android {
     compileSdk 34
 
     defaultConfig {
-        namespace "com.horizontalcalendarlibrary"
+        namespace "devs.mulham.horizontalcalendar"
         applicationId "devs.mulham.raee.horizontalcalendarlibrary"
         minSdkVersion 14
         targetSdkVersion 34
