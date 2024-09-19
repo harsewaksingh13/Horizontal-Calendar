@@ -9,6 +9,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
+import com.horizontalcalendarlibrary.R;
+
 import java.util.Calendar;
 
 import devs.mulham.horizontalcalendar.HorizontalCalendar;

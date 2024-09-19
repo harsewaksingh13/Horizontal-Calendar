@@ -12,6 +12,8 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
+import com.horizontalcalendarlibrary.R;
+
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;

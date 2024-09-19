@@ -120,7 +120,7 @@ public class HorizontalCalendarView extends RecyclerView {
 
     private int fetchAccentColor() {
         TypedValue typedValue = new TypedValue();
-        TypedArray a = getContext().obtainStyledAttributes(typedValue.data, new int[]{R.attr.colorAccent});
+        TypedArray a = getContext().obtainStyledAttributes(typedValue.data, new int[]{android.support.v7.appcompat.R.attr.colorAccent});
         int color = a.getColor(0, 0);
 
         a.recycle();
