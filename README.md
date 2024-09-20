@@ -9,17 +9,19 @@ A material horizontal calendar view for Android based on `RecyclerView`.
 
 ## Installation
 
-The library is hosted on jcenter, add this to your **build.gradle**:
+If you are a Gradle user you can easily include the library by specifying it as
+a dependency:
 
-```gradle
-repositories {
-      jcenter()
-    }
-    
-dependencies {
-      compile 'devs.mulham.horizontalcalendar:horizontalcalendar:1.3.4'
-    }
 ```
+ implementation 'com.github.harsewaksingh13:Horizontal-Calendar:1.1.2'
+```
+
+Make sure to update your build.gradle or settings.gradle if not already to use mavel like below
+
+```
+ maven { url "https://jitpack.io" }
+```
+
 
 ## Prerequisites
 
